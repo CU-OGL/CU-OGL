@@ -3,11 +3,7 @@ We’re interested in developing our coding capabilities and workflows in a cent
 
 🙏 Many of us are begginners on coding and git journeys, and therefore this space is a work in progress. Constructive feedback welcomed 😀
 
-📫 How to reach me: currently contact Harry Allbrook, a graduate student in the CU OGL who is establishing this github account.
-
-⚡ Pun fact: What's Harry's favourite intramolecular force?
-
-😲 LONDON forces (I'm British...🫖)!
+📫 How to reach me: current contact is Harry Allbrook, a graduate student in the CU OGL who is establishing this github account.
 
 <!---
 CU-OGL/CU-OGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
